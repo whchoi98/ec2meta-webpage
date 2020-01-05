@@ -84,3 +84,5 @@ reservation-id: r-05fa2da8daaac6eb4
 security-groups: SSH_WEB_FTP_ICMP
 user-data: not available
 ```
+#### AWS EC3 Meta-Data WebPage 출력 화면
+![AWS EC2 Meta Data 2020-01-05 23-47-59](https://user-images.githubusercontent.com/11262759/71781799-1c463b80-3016-11ea-88a4-543dae8858ae.png)
